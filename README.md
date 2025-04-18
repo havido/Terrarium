@@ -1,0 +1,2 @@
+- Drag & drop plants around the screen by clicking & dragging plants
+- Double click plant to create a clone
